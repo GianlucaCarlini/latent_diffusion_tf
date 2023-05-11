@@ -7,3 +7,4 @@
 *.csv
 *.xls
 __pycache__/
+saved_model/
